@@ -134,7 +134,7 @@ Every word is voiced by real TTS: English (Jenny, American) and Russian (Svetlan
 - Windows 10 / 11 (64-bit)
 - RAM: 256 MB+
 - Disk: ~200 MB (with TTS cache)
-- Internet: PRO — fully offline; FREE — required only on first playback of a new word
+- Internet: not required for base study features (PRO — fully offline; FREE — needed only for first playback of a new word)
 - AI teacher (optional): requires internet and your own DeepSeek (or compatible) API key — not included, get one at [platform.deepseek.com](https://platform.deepseek.com)
 - Portable — no installation required
 
