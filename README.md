@@ -31,6 +31,7 @@
 | Слов | 100 (5 тем × 20) | **2000 (10 тем × 200)** |
 | Режимы обучения | Все | Все |
 | Офлайн-озвучка | После первого прослушивания | **Сразу, кеш включён** |
+| ИИ-учитель (DeepSeek API) | Доступен (свой ключ) | Доступен (свой ключ) |
 | Цена | Бесплатно | Лицензионный ключ |
 
 ### Темы PRO-версии
@@ -54,7 +55,7 @@
 - **💬 Фразы** — диалоговые фразы с контекстом и ответом собеседника
 - **❓ Вопрос-ответ** — вопрос на английском, четыре варианта ответа
 - **🎯 Тест** — выбери правильный перевод, результат в конце
-- **🧑‍🏫 Учитель** — встроенный ассистент: объясняет слова, грамматику, устраивает мини-тест
+- **🧑‍🏫 Учитель** — встроенный ассистент: объясняет слова, грамматику, устраивает мини-тест. Работает по встроенной логике без интернета; при желании можно подключить собственный **DeepSeek API**-ключ — тогда ассистент определяет уровень ученика, сам составляет программу обучения и адаптирует объяснения под прогресс (доступно в FREE и PRO)
 - **📊 Статистика** — прогресс по каждому уровню, результаты тестов, сессии
 
 ---
@@ -74,6 +75,7 @@ Every word is voiced by real TTS: English (Jenny, American) and Russian (Svetlan
 | Words | 100 (5 topics × 20) | **2000 (10 topics × 200)** |
 | Study modes | All | All |
 | Offline TTS | After first playback | **Included from the start** |
+| AI teacher (DeepSeek API) | Available (own key) | Available (own key) |
 | Price | Free | License key |
 
 ### Study modes
@@ -82,7 +84,7 @@ Every word is voiced by real TTS: English (Jenny, American) and Russian (Svetlan
 - **💬 Phrases** — dialogue phrases with context and reply
 - **❓ Q&A** — English question, four answer choices, voiced after selection
 - **🎯 Test** — translate the word, pick from four options, score shown at the end
-- **🧑‍🏫 Teacher** — built-in assistant: explains words, grammar, runs mini-quizzes; works offline
+- **🧑‍🏫 Teacher** — built-in assistant: explains words, grammar, runs mini-quizzes. Works offline on built-in logic; optionally connect your own **DeepSeek API** key and the assistant assesses your level, builds a personalized study plan and adapts as you progress (available in both FREE and PRO)
 - **📊 Statistics** — progress per level, test scores, session count
 
 ---
@@ -117,6 +119,14 @@ Every word is voiced by real TTS: English (Jenny, American) and Russian (Svetlan
 
 ![Statistics](screenshots/7.png)
 
+**Connecting the AI teacher — enter your DeepSeek API key:**
+
+![Connect AI teacher](screenshots/8.png)
+
+**Teacher mode with AI connected — adaptive lesson, level check, personalized plan:**
+
+![AI teacher active](screenshots/9.png)
+
 ---
 
 ## ⚙️ Requirements
@@ -125,6 +135,7 @@ Every word is voiced by real TTS: English (Jenny, American) and Russian (Svetlan
 - RAM: 256 MB+
 - Disk: ~200 MB (with TTS cache)
 - Internet: PRO — fully offline; FREE — required only on first playback of a new word
+- AI teacher (optional): requires internet and your own DeepSeek (or compatible) API key — not included, get one at [platform.deepseek.com](https://platform.deepseek.com)
 - Portable — no installation required
 
 ---
