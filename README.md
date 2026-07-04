@@ -18,7 +18,7 @@
 
 ## 🇷🇺 Русский
 
-Десктопная программа для изучения английских слов на Windows. Никаких регистраций, подписок и обязательного интернета — скачал, распаковал, запустил.
+Десктопная программа для изучения английских слов на Windows. Никаких регистраций и подписок — скачал, распаковал, запустил. Базовая программа работает полностью офлайн; интернет нужен только для опционального ИИ-учителя (свой DeepSeek API-ключ) и для озвучки новых слов в FREE-версии.
 
 Каждое слово озвучивается живым голосом: английский (Jenny, американский) и русский (Светлана). Показывает транскрипцию и пример в предложении на обоих языках.
 
@@ -62,7 +62,7 @@
 
 ## 🇺🇸 English
 
-A desktop app for learning English vocabulary on Windows. No registration, no subscription, no mandatory internet — unpack and start learning immediately.
+A desktop app for learning English vocabulary on Windows. No registration, no subscription — unpack and start learning immediately. The base app works fully offline; internet is only needed for the optional AI teacher (your own DeepSeek API key) and for voicing new words in the FREE edition.
 
 Every word is voiced by real TTS: English (Jenny, American) and Russian (Svetlana). Shows transcription and a usage example in both languages.
 
@@ -148,9 +148,9 @@ Source code is not public. LEXIS is a commercial product by **ShashevPro**.
 **Купить лицензию · Buy a license:**
 
 - 🌐 [shashevpro.ru](https://www.shashevpro.ru)
-- 🛒 [kwork.ru/user/shashevpro](https://kwork.ru/user/shashevpro)
+- 🛒 [kwork.ru/user/andreysha256](https://kwork.ru/user/andreysha256)
 - ✉️ programmer@shashevpro.ru
-- 💬 [vk.com/shashevpro](https://vk.com/shashevpro)
+- 💬 [vk.com/andrey_shashev](https://vk.com/andrey_shashev)
 
 ---
 
